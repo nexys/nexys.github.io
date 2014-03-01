@@ -8,7 +8,7 @@ I got woken up by vietnamese conversations in the kitchen downstairs after a lon
 
 <div class="image-row" align="center">
 	<div class="image-set">
-       <a class="example-image-link" href="https://dl.dropboxusercontent.com/s/94mqoaffzwyrds0/2014-02-22%2012.43.14-1.jpg" data-lightbox="example-set" title="Me preparing some Bánh chưng."><img class="example-image" src="https://dl.dropboxusercontent.com/s/94mqoaffzwyrds0/2014-02-22%2012.43.14-1.jpg" alt="Plants: image 1 0f 4 thumb" width="30%" height="30%"/></a>
+       <a class="example-image-link" href="https://dl.dropboxusercontent.com/s/94mqoaffzwyrds0/2014-02-22%2012.43.14-1.jpg" data-lightbox="example-set" title="Me preparing some Bánh chưng."><img class="example-image" src="https://dl.dropboxusercontent.com/s/94mqoaffzwyrds0/2014-02-22%2012.43.14-1.jpg" width="30%" height="30%"/></a>
 	</div>
 </div>
 
@@ -19,6 +19,6 @@ I am rather full now and I once again call it a day and leave you with an impres
 
 <div class="image-row" align="center">
 	<div class="image-set">
-       <a class="example-image-link" href="https://dl.dropboxusercontent.com/s/8rm3dnh0w34d4he/IMG_20140222_181036.jpg" data-lightbox="example-set" title="Our dinner table from this evening."><img class="example-image" src="https://dl.dropboxusercontent.com/s/8rm3dnh0w34d4he/IMG_20140222_181036.jpg" alt="Plants: image 1 0f 4 thumb" width="50%" height="50%"/></a>
+       <a class="example-image-link" href="https://dl.dropboxusercontent.com/s/8rm3dnh0w34d4he/IMG_20140222_181036.jpg" data-lightbox="example-set" title="Our dinner table from this evening."><img class="example-image" src="https://dl.dropboxusercontent.com/s/8rm3dnh0w34d4he/IMG_20140222_181036.jpg" width="50%" height="50%"/></a>
 	</div>
 </div>

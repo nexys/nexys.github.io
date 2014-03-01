@@ -6,6 +6,12 @@ date:	2014-02-23 08:07:04
 
 We had to get up really early today to fetch some camera equipment for our trip to Sài Gòn. Thanks to a family friend we now have a Canon EOS 5d mkII with a 24-105mm 4.0 L lens. Prepare yourself for some really good pictures and 1080p video material.
 
+<div class="image-row" align="center">
+	<div class="image-set">
+       <a class="example-image-link" href="https://dl.dropboxusercontent.com/s/397bpjjqwuica2r/IMG_20140223_090525_thumb.jpg" data-lightbox="example-set" title="Vietnamese Breakfast"><img class="example-image" src="https://dl.dropboxusercontent.com/s/397bpjjqwuica2r/IMG_20140223_090525_thumb.jpg" width="30%" height="30%"/></a>
+	</div>
+</div>
+
 For breakfast we decided to eat at one of the many cooking kitchens. I had different kinds of pork meat. Cooked pork, something that had the consistency and taste of german Leberkäse and a boiled and fried egg all along with two bouls of rice. In germany the breakfast usually does not last very long. Here I don't need anything to eat after such a breakfast until the evening.
 For this journey I only packed clothes for one week so today was the first time I had to do some of my laundry. I decided to bring it to a nearby laundry to get them cleaned until we travel to Sài Gòn tomorrow. Even on sundays this is no big problem. Almost every store is open seven days a week. We found a laundry and they cleaned my clothes in 4 hours for ~9€.
 

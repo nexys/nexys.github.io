@@ -14,7 +14,7 @@ Our journey through the south of Vietnam started today. The first stop was [Sài
 	</div>
 </div>
 
-After lunch we went to explore Sài Gòn on our own. The traffic in Sài Gòn is by far the worst and we had only one mirror on our motorbike that was broken. Fortunately there are a lot of shops on the side of the street that sell motorbike repair parts, so we got ourselfs a new mirror and managed to get through the traffic it without any major incidents.
+After lunch we went to explore Sài Gòn on our own. The traffic in Sài Gòn is by far the worst and we had only one mirror on our motorbike that was broken. Fortunately there are a lot of shops on the side of the street that sell motorbike repair parts, so we got ourselfs a new mirror and managed to get through the traffic without any major incidents.
 
 We picked up a friend of Thanh who works at KPMG Vietnam and went for a walk through the city and went to a very good restaurant afterwards. It is a restaurant that seems to be recommended a lot of tourist guides because it was almost fully booked. Thanhs cousin as well as her husband and wife joined us later and we had really great food. We had a hot pot in the middle of the table and a lot of raw ingredients around it like a variety of vegetables and seafood that could be put in the pot.
 

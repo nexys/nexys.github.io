@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sơn Tailor (The quest for a new suit)"
-date:	2014-02-22 08:07:04
+date:	2014-02-23 08:07:04
 ---
 
 We had to get up really early today to fetch some camera equipment for our trip to Sài Gòn. Thanks to a family friend we now have a Canon EOS 5d mkII with a 24-105mm 4.0 L lens. Prepare yourself for some really good pictures and 1080p video material.

@@ -4,7 +4,7 @@ title:  "En route to Nha Trang"
 date:	2014-02-26 08:07:04
 ---
 
-We went to see the Thác Prenn waterfalls that were closed the day before. Besides seeing the waterfall you can also ride ostriches, elephants and camels there. Although I enjoy seeing these animals I would never ride an animal in captivity. Many people there thought otherwise and rode the poor and exhausted ostriches which you can see in a picture below.
+We went to see the Thác Prenn waterfalls that were closed the day before. Besides seeing the waterfall you can also ride ostriches, elephants and camels there. Although I enjoy seeing these animals I would never ride an animal in captivity. Many people there thought otherwise and rode the poor and exhausted ostriches.
 
 <div class="image-row" align="center">
 	<div class="image-set">

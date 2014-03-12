@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Ha Noi - Hai Phong - Ha Long"
+date:	2014-03-04 08:07:04
+---

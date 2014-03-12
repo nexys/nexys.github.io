@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/andreas/vnblog"
+		}
+	],
+
+	"build_systems":
+    [
+        // This will build your Jekyll site, and print a trace to the console
+        {
+            "name": "Jekyll",
+            // Change this directory to match your top-level Jekyll project folder
+            "working_dir": "/home/andreas/vnblog",
+            "cmd": "jekyll build --drafts",
+            "shell": true,
+            "encoding": "UTF-8"
+        }
+    ]
+}
